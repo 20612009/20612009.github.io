@@ -2,6 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 
+avatar:
+  filename: Musahib.jpeg
+
 name:
   display: Mohd Musahib
   given: Mohd
