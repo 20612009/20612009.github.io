@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 
-avatar:
+musahib:
   filename: musahib.png
 
 name:
