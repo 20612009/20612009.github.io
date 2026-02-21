@@ -41,10 +41,11 @@ sections:
     content:
       title: '📚 My Current Research'
       subtitle: ''
-      text: |
-    My current research focuses on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobilization and speciation of arsenic in groundwater systems. This work involves rigorous field-based spatial and temporal hydrogeochemical surveys, laboratory experimentation, multivariate statistical analyses, and geochemical modeling tools.
-        Please reach out to collaborate 😃
-    design:
+text: |
+  My current research focuses on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobilization and speciation of arsenic in groundwater systems. This work involves rigorous field-based spatial and temporal hydrogeochemical surveys, laboratory experimentation, multivariate statistical analyses, and geochemical modeling tools.
+
+  Please reach out to collaborate 😃
+design:
       columns: '1'
   - block: collection
     id: papers
