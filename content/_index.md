@@ -22,7 +22,7 @@ sections:
       headings:
         about: 'Bio'
         education: ''
-        interests: 'Research Intersts'
+        interests: 'Research Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
