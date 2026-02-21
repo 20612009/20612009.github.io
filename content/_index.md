@@ -42,7 +42,7 @@ sections:
       title: '📚 My Current Research'
       subtitle: ''
       text: |-
-        My research examines contaminant fate and transport in groundwater and surface water systems under anthropogenic stress. Particular  focus is on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobility of arsenic and other environmentally relevant solutes. I investigate mechanisms controlling speciation and mobilization of arsenic by using field-based hydrogeochemical surveys, laboratory experimentation, and geochemical modeling tools. My broader interests include reactive transport modeling, nutrient and trace element cycling, and catchment-scale biogeochemical dynamics shaped by historical land use and environmental pressures.
+        My current research focuses on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobilization and speciation of arsenic in groundwater. This work involves rigorous field-based spatial and temporal hydrogeochemical surveys, laboratory experimentation, multivariate statistics, and geochemical modeling tools. My broader interests include reactive transport modeling, nutrient and trace element cycling, and catchment-scale biogeochemical dynamics shaped by historical land use and environmental pressures.
 
         Please reach out to collaborate 😃
     design:
