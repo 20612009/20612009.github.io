@@ -51,10 +51,11 @@ education:
     start: 27-10-2023
     end: 10-06-2026 (Expected)
     summary: |
-      Thesis on the fate and transport of arsenic in aquifers under anthropogenic influence.
+  
+   MS(R) thesis investigates the biogeochemical and hydrological controls on arsenic mobilization and speciation in mixed oxic alluvial aquifers. By integrating groundwater hydrochemistry, stable isotope analysis, hydraulic gradient evaluation, and mineral–colloid characterization, the study examines the role of anthropogenic influences plus secondary precipitation and colloidal processes in regulating arsenic fate and transport. The findings advance mechanistic understanding of spatial variability in arsenic contamination and provide insights relevant to groundwater management in affected regions.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Download Abstract
+      url: 10.13140/RG.2.2.30811.22568
       icon: hero/arrow-down-tray
   - degree: M.Sc. Applied Geology
     institution: Indian Institute of Technology Roorkee
@@ -112,5 +113,5 @@ awards:
   - title: Best Poster Presentation Award!
     awarder:  𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗻𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗼𝗻 𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗖𝗶𝗿𝗰𝘂𝗹𝗮𝗿𝗶𝘁𝘆, 𝗢𝘂𝘁𝗿𝗲𝗮𝗰𝗵, 𝗮𝗻𝗱 𝗣𝗼𝗹𝗶𝗰𝘆 𝗳𝗼𝗿 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 (𝗦𝗖𝗢𝗣𝗘 𝟮𝟬𝟮𝟱)
     date: "20–22 November 2025"
-    summary: Awarded for the work titled “𝐏𝐡𝐲𝐬𝐢𝐜𝐨𝐜𝐡𝐞𝐦𝐢𝐜𝐚𝐥 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐃𝐫𝐢𝐯𝐢𝐧𝐠 𝐀𝐫𝐬𝐞𝐧𝐢𝐜 𝐌𝐨𝐛𝐢𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐆𝐫𝐨𝐮𝐧𝐝𝐰𝐚𝐭𝐞𝐫 𝐮𝐧𝐝𝐞𝐫 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐨𝐠𝐞𝐧𝐢𝐜 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐬”.
+    summary: Awarded for part of MS thesis work titled “𝐏𝐡𝐲𝐬𝐢𝐜𝐨𝐜𝐡𝐞𝐦𝐢𝐜𝐚𝐥 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐃𝐫𝐢𝐯𝐢𝐧𝐠 𝐀𝐫𝐬𝐞𝐧𝐢𝐜 𝐌𝐨𝐛𝐢𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐆𝐫𝐨𝐮𝐧𝐝𝐰𝐚𝐭𝐞𝐫 𝐮𝐧𝐝𝐞𝐫 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐨𝐠𝐞𝐧𝐢𝐜 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐬”.
     icon: hero/trophy
