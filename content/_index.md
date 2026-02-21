@@ -12,10 +12,8 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -24,29 +22,26 @@ sections:
         education: ''
         interests: 'Research Interests'
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
   - block: markdown
     content:
       title: '📚 My Current Research'
       subtitle: ''
-text: |
-  My current research focuses on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobilization and speciation of arsenic in groundwater systems. This work involves rigorous field-based spatial and temporal hydrogeochemical surveys, laboratory experimentation, multivariate statistical analyses, and geochemical modeling tools.
+      text: |
+        My current research focuses on redox-driven geochemical transformations, sediment–water interactions, and coupled surface–groundwater processes influencing mobilization and speciation of arsenic in groundwater systems. This work involves rigorous field-based spatial and temporal hydrogeochemical surveys, laboratory experimentation, multivariate statistical analyses, and geochemical modeling tools.
 
-  Please reach out to collaborate 😃
-design:
+        Please reach out to collaborate 😃
+    design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -58,6 +53,7 @@ design:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -68,6 +64,7 @@ design:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -77,17 +74,15 @@ design:
           - events
     design:
       view: card
+
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
       count: 10
-      # Filter on criteria
       filters:
         author: ''
         category: ''
@@ -96,18 +91,15 @@ design:
         exclude_future: false
         exclude_past: false
         publication_type: ''
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -123,7 +115,6 @@ design:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
 ---
