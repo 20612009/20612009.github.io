@@ -50,6 +50,10 @@ education:
     end: 2026-06-10
     summary: |
       MS(R) thesis investigates the biogeochemical and hydrological controls on arsenic mobilization and speciation in mixed oxic alluvial aquifers. By integrating groundwater hydrochemistry, stable isotope analysis, hydraulic gradient evaluation, and mineral–colloid characterization, the study examines anthropogenic influences and secondary precipitation processes regulating arsenic fate and transport.
+    button:
+      text: Download Abstract
+      url: /abstract.pdf
+      icon: hero/arrow-down-tray
 
   - degree: M.Sc. Applied Geology
     institution: Indian Institute of Technology Roorkee
