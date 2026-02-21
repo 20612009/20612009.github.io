@@ -30,8 +30,6 @@ links:
   - icon: at-symbol
     url: mailto:musahib23@iitk.ac.in
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
     url: https://github.com/20612009
   - icon: brands/linkedin
@@ -48,24 +46,24 @@ interests:
   - Stable isotopes
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MS Research Environmental Engineering
+    institution: Indian Institute of Technology Kanpur
+    start: 27-10-2023
+    end: 10-06-2026 (Expected)
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on the fate and transport of arsenic in aquifers under anthropogenic influence.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: M.Sc. Applied Geology
+    institution: Indian Institute of Technology Roorkee
+    start: 24-08-2020
+    end: 31-05-2022
+  - degree: B.Sc. Geology (Hons)
+    institution: Aligarh Muslim University Aligarh
+    start: 01-09-2017
+    end: 31-05-2020
 
 experience:
   - role: Senior AI Research Scientist
