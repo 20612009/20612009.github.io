@@ -6,8 +6,6 @@ name:
   display: Mohd Musahib
   given: Mohd
   family: Musahib
-  alternate: ''
-  pronunciation: ''
   pronouns: he/him
 
 postnominals:
@@ -35,53 +33,47 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mohdmusahib
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=orPZ8RMAAAAJ&hl=en&authuser=2
+    url: https://scholar.google.com/citations?user=orPZ8RMAAAAJ
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Mohd_Musahib
 
 interests:
   - Environmental Biogeochemistry
-  - Groundwater - surface water interaction
-  - Subsurface contaminants/nutrients transport and transformations
+  - Groundwater–surface water interaction
+  - Subsurface contaminant transport
   - Stable isotopes
 
 education:
   - degree: MS Research Environmental Engineering
     institution: Indian Institute of Technology Kanpur
-    start: 27-10-2023
-    end: 10-06-2026 (Expected)
+    start: 2023-10-27
+    end: 2026-06-10
     summary: |
-  
-   MS(R) thesis investigates the biogeochemical and hydrological controls on arsenic mobilization and speciation in mixed oxic alluvial aquifers. By integrating groundwater hydrochemistry, stable isotope analysis, hydraulic gradient evaluation, and mineral–colloid characterization, the study examines the role of anthropogenic influences plus secondary precipitation and colloidal processes in regulating arsenic fate and transport. The findings advance mechanistic understanding of spatial variability in arsenic contamination and provide insights relevant to groundwater management in affected regions.
-    button:
-      text: Download Abstract
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+      MS(R) thesis investigates the biogeochemical and hydrological controls on arsenic mobilization and speciation in mixed oxic alluvial aquifers. By integrating groundwater hydrochemistry, stable isotope analysis, hydraulic gradient evaluation, and mineral–colloid characterization, the study examines anthropogenic influences and secondary precipitation processes regulating arsenic fate and transport.
+
   - degree: M.Sc. Applied Geology
     institution: Indian Institute of Technology Roorkee
-    start: 24-08-2020
-    end: 31-05-2022
+    start: 2020-08-24
+    end: 2022-05-31
+
   - degree: B.Sc. Geology (Hons)
-    institution: Aligarh Muslim University, Aligarh
-    start: 01-09-2017
-    end: 31-05-2020
+    institution: Aligarh Muslim University
+    start: 2017-09-01
+    end: 2020-05-31
 
 experience:
   - role: Senior AI Research Scientist
     org: Meta AI
     start: 2020-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+      Leading research on multimodal AI systems.
+
   - role: AI Research Intern
     org: OpenAI
     start: 2019-06-01
     end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on large-scale language models.
 
 skills:
   - name: Technical Skills
@@ -90,28 +82,19 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
+    label: Professional
   - name: Spanish
     level: 4
-    label: Fluent
+    label: Intermediate
 
 awards:
-  - title: Best Poster Presentation Award!
-    awarder:  𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗻𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗼𝗻 𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗖𝗶𝗿𝗰𝘂𝗹𝗮𝗿𝗶𝘁𝘆, 𝗢𝘂𝘁𝗿𝗲𝗮𝗰𝗵, 𝗮𝗻𝗱 𝗣𝗼𝗹𝗶𝗰𝘆 𝗳𝗼𝗿 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 (𝗦𝗖𝗢𝗣𝗘 𝟮𝟬𝟮𝟱)
-    date: "20–22 November 2025"
-    summary: Awarded for part of MS thesis work titled “𝐏𝐡𝐲𝐬𝐢𝐜𝐨𝐜𝐡𝐞𝐦𝐢𝐜𝐚𝐥 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐃𝐫𝐢𝐯𝐢𝐧𝐠 𝐀𝐫𝐬𝐞𝐧𝐢𝐜 𝐌𝐨𝐛𝐢𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐆𝐫𝐨𝐮𝐧𝐝𝐰𝐚𝐭𝐞𝐫 𝐮𝐧𝐝𝐞𝐫 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐨𝐠𝐞𝐧𝐢𝐜 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐬”.
+  - title: Best Poster Presentation Award
+    awarder: International Conference on Sustainability, Circularity, Outreach, and Policy for Environment (SCOPE 2025)
+    date: 2025-11-20
+    summary: |
+      Awarded for MS thesis work on physicochemical controls of arsenic mobilization under anthropogenic influence.
     icon: hero/trophy
