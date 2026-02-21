@@ -15,7 +15,7 @@ postnominals:
 status:
   icon: "☕️"
 
-role: Environmental Biogeochemist
+role: Environmental (Bio)geochemist
 
 bio: |
   Mohd Musahib is an environmental biogeochemistry researcher and M.S. candidate in Environmental Engineering at the Indian Institute of Technology Kanpur. His work focuses on water quality processes in groundwater and surface water systems under anthropogenic stress. He investigates contaminant fate and transport, redox-driven geochemical transformations, and sediment–water interactions using integrated field surveys, laboratory analyses, and quantitative modeling. His broader interests include reactive transport modeling and catchment-scale biogeochemical dynamics relevant to sustainable water resource management.
@@ -40,7 +40,8 @@ links:
 interests:
   - Environmental Biogeochemistry
   - Groundwater–surface water interaction
-  - Subsurface contaminant transport
+  - Water quality modelling
+  - Contaminant fate and transport in the environment
   - Stable isotopes
 
 education:
@@ -52,7 +53,7 @@ education:
       MS(R) thesis investigates the biogeochemical and hydrological controls on arsenic mobilization and speciation in mixed oxic alluvial aquifers. By integrating groundwater hydrochemistry, stable isotope analysis, hydraulic gradient evaluation, and mineral–colloid characterization, the study examines anthropogenic influences and secondary precipitation processes regulating arsenic fate and transport.
     button:
       text: Download Abstract
-      url: /abstract.pdf
+      url: static/uploads/abstract.pdf
       icon: hero/arrow-down-tray
 
   - degree: M.Sc. Applied Geology
