@@ -1,11 +1,11 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
+title: ⚡️ Fluoromax + spectrofluorometer
 summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+date: 2026-02-22
 authors:
   - me
 tags:
-  - Hugo Blox
+  - Chemistry department
   - Jupyter
   - Open Science
   - Tutorials
@@ -14,11 +14,11 @@ cover:
   icon:
     name: "📔"
 image:
-  caption: "Image credit: [HugoBlox](https://hugoblox.com)"
+  caption: "Image credit: [Me]"
   focal_point: Center
   placement: 1
 content_meta:
-  trending: true
+  Working: true
 ---
 
 As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
