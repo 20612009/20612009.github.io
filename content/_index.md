@@ -18,7 +18,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'Bio'
+        about: 'About Me'
         education: ''
         interests: 'Research Interests'
     design:
