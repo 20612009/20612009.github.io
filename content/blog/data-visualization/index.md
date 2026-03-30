@@ -1,13 +1,10 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Total Organic Carbon Analyzer (TOC - L; SHIMADZU)
+summary: I regularly use the TOC-L analyzer to quantify the total carbon, inorganic carbon, and total nitrogen present in water samples. 
 authors:
   - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+IIT Kanpur
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -24,7 +21,7 @@ cover:
   icon:
     name: "✨"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Musahib**](https://unsplash.com)'
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
