@@ -78,7 +78,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Advanced Analytical Instrumentation
+      title: Analytical Instrumentation
       subtitle: ''
       text: ''
       page_type: blog
