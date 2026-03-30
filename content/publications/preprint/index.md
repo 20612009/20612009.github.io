@@ -16,12 +16,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Arsenic (As) pollution (>10 µg L⁻¹) in groundwater of Indian aquifers poses a major challenge for safe drinking water. Despite extensive research, local spatial heterogeneities in As distribution remain poorly understood. This study investigates As mobilization and speciation in mixed oxic aquifers in Kanpur, India.
-
-A hydrological survey was conducted to evaluate hydraulic gradient dynamics. Hydrochemical parameters and stable isotopes (δ²H and δ¹⁸O) in groundwater and surface water were monitored over one year. The role of secondarily precipitated solids and colloids in controlling dissolved As was also assessed.
-
-Results indicate higher surface water ingress and anthropogenic impact in the shallow aquifer compared to the deeper aquifer. Variations in hydraulic gradient create spatially variable biogeochemical environments controlling As speciation. Notably, arsenic concentrations in the deeper aquifer have increased over time.
-
+abstract: Arsenic (As) pollution (>10 µg L⁻¹) in groundwater of Indian aquifers poses a major challenge for safe drinking water. Despite extensive research, local spatial heterogeneities in As distribution remain poorly understood. This study investigates As mobilization and speciation in mixed oxic aquifers in Kanpur, India. A hydrological survey was conducted to evaluate hydraulic gradient dynamics. Hydrochemical parameters and stable isotopes (δ²H and δ¹⁸O) in groundwater and surface water were monitored over one year. The role of secondarily precipitated solids and colloids in controlling dissolved As was also assessed. Results indicate higher surface water ingress and anthropogenic impact in the shallow aquifer compared to the deeper aquifer. Variations in hydraulic gradient create spatially variable biogeochemical environments controlling As speciation. Notably, arsenic concentrations in the deeper aquifer have increased over time.
 Geochemical analyses and colloid characterization suggest that arsenic fate and transport are governed by solubility-driven processes involving secondary precipitated colloids.
 
 # Summary. An optional shortened abstract.
