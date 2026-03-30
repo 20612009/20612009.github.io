@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Conference Presentations
       filters:
         folders:
           - publications
@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Journal Publications
       text: ''
       filters:
         folders:
@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Advanced Analytical Instrumentation
       filters:
         folders:
           - events
@@ -78,7 +78,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Advanced Analytical Instrumentation
       subtitle: ''
       text: ''
       page_type: blog
