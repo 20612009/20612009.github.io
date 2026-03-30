@@ -1,5 +1,6 @@
----
-title: Coupled IC-ICP-MS 
+<img width="875" height="88" alt="image" src="https://github.com/user-attachments/assets/03cdfbf6-e745-4593-9779-568670a938a1" />---
+title: Coupled IC-IC-PMS (Dionex ICS 5000; Thermo Sci. iCAP Qc)
+
 summary: IC-ICP-MS in the environmental engineering laboratory at IIT Kanpur is actively used for speciation analyses for arsenic and chromium.
 authors:
   - me
