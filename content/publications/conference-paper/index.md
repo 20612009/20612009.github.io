@@ -29,10 +29,10 @@ publication_short: In *ICW*
 abstract: Decadal Monitoring of Arsenic in Groundwater and Its Implications on the Sustainability of Aquifers.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Arsenic contamination in groundwater was evaluated over a decade (2017–2026) using hydrochemical data, GNSS-based hydraulic gradients, stable isotopes, statistical tests, and geochemical modeling. Results show 35–50% surface water mixing and a significant increase in arsenic in confined aquifers, likely driven by human-induced disturbances in water flow regimes, seasonal variability, and dissolution–precipitation controlled geochemical processes.
 
 tags:
-  - Hydrobiogeochemistry
+  - Awarded the best presentation award
 # Display this page in the Featured widget?
 featured: true
 
