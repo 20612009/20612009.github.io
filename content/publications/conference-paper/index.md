@@ -26,8 +26,7 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: Decadal Monitoring of Arsenic in Groundwater and its Implications on the 
-Sustainability of Aquifers.
+abstract: Decadal Monitoring of Arsenic in Groundwater and Its Implications on the Sustainability of Aquifers.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
