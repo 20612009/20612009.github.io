@@ -25,11 +25,8 @@ cover:
 
 authors:
   - me
-
 tags:
   - Academic
-  - Hugo Blox
-  - Markdown
 
 content_meta:
   IIT Kanpur: true
