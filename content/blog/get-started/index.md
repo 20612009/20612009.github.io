@@ -1,11 +1,11 @@
 ---
 title: Inductively coupled plasma mass spectrometry (Thermo Scientific iCAP Qc; single quadrapole ICP-MS)
-summary: Click the picture to know more about what and how I work with the ICP-MS.
+summary: Click the picture to know more about what and how Musahib works with the ICP-MS.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Musahib**]'
 
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
@@ -25,7 +25,6 @@ cover:
 
 authors:
   - me
-  - Ted
 
 tags:
   - Academic
@@ -33,7 +32,7 @@ tags:
   - Markdown
 
 content_meta:
-  trending: true
+  IIT Kanpur: true
 ---
 
 Welcome 👋
