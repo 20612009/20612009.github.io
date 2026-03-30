@@ -5,7 +5,7 @@ date: 2026-02-22
 authors:
   - me
 tags:
-  - Chemistry department
+  - IIT Kanpur
   - Jupyter
   - Open Science
   - Tutorials
@@ -14,7 +14,7 @@ cover:
   icon:
     name: "📔"
 image:
-  caption: "Image credit: [Me]"
+  caption: "Image credit: [Selfie]"
   focal_point: Center
   placement: 1
 content_meta:
