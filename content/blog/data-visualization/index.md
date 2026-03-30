@@ -3,8 +3,7 @@ title: Total Organic Carbon Analyzer (TOC - L; SHIMADZU)
 summary: I regularly use the TOC-L analyzer to quantify the total carbon, inorganic carbon, and total nitrogen present in water samples. 
 authors:
   - me
-tags:
-IIT Kanpur
+tags: IIT Kanpur
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
