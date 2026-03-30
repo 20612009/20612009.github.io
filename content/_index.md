@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Advanced Analytical Instrumentation
+      title: Field & Laboratory Skills
       filters:
         folders:
           - events
