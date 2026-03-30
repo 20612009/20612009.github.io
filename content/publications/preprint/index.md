@@ -16,7 +16,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Arsenic (As) pollution (> 10 µg L-1) in the groundwater of Indian aquifers presents one of the biggest challenges in providing safe drinking water. Despite extensive research on the mobilization and speciation of As in groundwater, local spatial heterogeneities in As prevalence remain poorly understood. A detailed study was conducted to understand the mobilization and speciation of As in mixed oxic aquifers in Kanpur, India. A hydrological survey was done to understand the dynamics of the hydraulic gradient in the study area. Hydrochemical parameters and 
+abstract: 
+Arsenic (As) pollution (> 10 µg L-1) in the groundwater of Indian aquifers presents one of the biggest challenges in providing safe drinking water. Despite extensive research on the mobilization and speciation of As in groundwater, local spatial heterogeneities in As prevalence remain poorly understood. A detailed study was conducted to understand the mobilization and speciation of As in mixed oxic aquifers in Kanpur, India. A hydrological survey was done to understand the dynamics of the hydraulic gradient in the study area. Hydrochemical parameters and 
 stable isotopes (δ²H and δ¹⁸O) in groundwater and the surface water were systematically monitored for one year. 
 Further, the control of secondarily precipitated solids/colloids on dissolved As was evaluated. Results indicate 
 higher surface water ingress and anthropogenic impact on the shallower aquifer compared to the deeper aquifer. 
