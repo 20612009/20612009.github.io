@@ -32,7 +32,7 @@ abstract: Decadal Monitoring of Arsenic in Groundwater and Its Implications on t
 summary: Arsenic contamination in groundwater was evaluated over a decade (2017–2026) using hydrochemical data, GNSS-based hydraulic gradients, stable isotopes, statistical tests, and geochemical modeling. Results show 35–50% surface water mixing and a significant increase in arsenic in confined aquifers, likely driven by human-induced disturbances in water flow regimes, seasonal variability, and dissolution–precipitation controlled geochemical processes.
 
 tags:
-  - Awarded the best presentation award
+  - Awarded the best oral presentation award
 # Display this page in the Featured widget?
 featured: true
 
