@@ -1,12 +1,10 @@
 ---
 title: Coupled IC-ICP-MS 
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+summary: IC-ICP-MS in the environmental engineering laboratory at IIT Kanpur is actively used for speciation analyses for arsenic and chromium.
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Markdown
+  - IIT Kanpur
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 cover:
