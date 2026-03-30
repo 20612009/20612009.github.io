@@ -34,7 +34,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
   - Hydrobiogeochemistry
-
 # Display this page in the Featured widget?
 featured: true
 
