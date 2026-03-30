@@ -26,7 +26,7 @@ cover:
 authors:
   - me
 tags:
-  - Academic
+  - IIT Kanpur
 
 content_meta:
   IIT Kanpur: true
