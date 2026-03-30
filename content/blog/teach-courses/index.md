@@ -1,14 +1,12 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: UV - Vis Spectrophotometer (Agilent Technology; Cary 60 UV - Vis)
+summary: Frequently used for the measurement of Fe(II) and Cr(VI).
+date: 2026-03-30
 math: true
 authors:
   - me
 tags:
-  - Hugo
-  - HugoBlox Kit
-  - Markdown
+  - Environmental Geochemistry Lab, IIT Kanpur
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 cover:
