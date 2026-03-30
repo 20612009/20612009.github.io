@@ -16,15 +16,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Arsenic (As) pollution (> 10 µg L-1) in the groundwater of Indian aquifers presents one of the biggest challenges in providing safe drinking :water. Despite extensive research on the mobilization and speciation of As in groundwater, local spatial heterogeneities in As prevalence remain poorly :understood. A detailed study was conducted to understand the mobilization and speciation of As in mixed oxic aquifers in Kanpur, India. A hydrological :survey was done to understand the dynamics of the hydraulic gradient in the study area. Hydrochemical parameters and 
-stable isotopes (δ²H and δ¹⁸O) in groundwater and the surface water were systematically monitored for one year. 
-Further, the control of secondarily precipitated solids/colloids on dissolved As was evaluated. Results indicate 
-higher surface water ingress and anthropogenic impact on the shallower aquifer compared to the deeper aquifer. 
-Hydrological measurements showed variations in hydraulic gradient, which result in spatially variable 
-biogeochemical environments controlling the distribution of As species. Total arsenic concentration in the deeper 
-aquifer has significantly increased over time. Geochemical analysis of groundwater and characterization of 
-colloids imply that the fate and transport of arsenic are also controlled by solubility-driven, secondarily precipitated 
-colloids. 
+abstract: Arsenic (As) pollution (>10 µg L⁻¹) in groundwater of Indian aquifers poses a major challenge for safe drinking water. Despite extensive research, local spatial heterogeneities in As distribution remain poorly understood. This study investigates As mobilization and speciation in mixed oxic aquifers in Kanpur, India.
+
+A hydrological survey was conducted to evaluate hydraulic gradient dynamics. Hydrochemical parameters and stable isotopes (δ²H and δ¹⁸O) in groundwater and surface water were monitored over one year. The role of secondarily precipitated solids and colloids in controlling dissolved As was also assessed.
+
+Results indicate higher surface water ingress and anthropogenic impact in the shallow aquifer compared to the deeper aquifer. Variations in hydraulic gradient create spatially variable biogeochemical environments controlling As speciation. Notably, arsenic concentrations in the deeper aquifer have increased over time.
+
+Geochemical analyses and colloid characterization suggest that arsenic fate and transport are governed by solubility-driven processes involving secondary precipitated colloids.
 
 # Summary. An optional shortened abstract.
 summary: Arsenic in mixed oxic aquifers was studied using hydrochemistry, isotopes, and hydrology. Results show surface water infiltration, variable gradients, rising deep aquifer arsenic, and control by secondary colloidal precipitation processes.
