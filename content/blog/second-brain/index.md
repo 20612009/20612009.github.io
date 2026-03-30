@@ -1,14 +1,13 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: X-ray Diffraction (XRD; PANalytical X'pert3 Powder)
+summary: Used for solid phase characterization.
+date: 2026-03-30
 authors:
   - me
 tags:
-  - Second Brain
-  - Markdown
+  - ACMS, IIT Kanpur
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Musahib**].'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
