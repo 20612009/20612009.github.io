@@ -1,12 +1,12 @@
 ---
-title: Coupled IC-ICP-MS 
+title: Coupled IC-ICP-MS (Dionex ICS 5000; Thermo Scientific iCAP Qc)
 summary: IC-ICP-MS in the environmental engineering laboratory at IIT Kanpur is actively used for speciation analyses for arsenic and chromium.
 authors:
   - me
 tags:
   - IIT Kanpur
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Musahib**]'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
