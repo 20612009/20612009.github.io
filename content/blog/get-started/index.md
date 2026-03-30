@@ -1,7 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Inductively coupled plasma mass spectrometry (Thermo Scientific iCAP Qc; single quadrapole ICP-MS)
+summary: Click the picture to know more about what and how I work with the ICP-MS.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
